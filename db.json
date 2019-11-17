@@ -9,8 +9,10 @@
       "weight": 1,
       "perishable": true,
       "categories": [
-        "produce",
-        "fruits"
+        "gluten free",
+        "grain free",
+        "soy free",
+        "dairy free"
       ]
     },
     {
@@ -22,8 +24,10 @@
       "weight": 2.25,
       "perishable": true,
       "categories": [
-        "snacks",
-        "baking"
+        "gluten free",
+        "grain free",
+        "soy free",
+        "dairy free"
       ]
     }
   ]
