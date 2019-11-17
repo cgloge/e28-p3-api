@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Driscoll’s Strawberries",
+      "name": "Meatloaf",
       "description": "Driscoll’s Strawberries are consistently the best, sweetest, juiciest strawberries available. This size is the best selling, as it is both convenient for completing a cherished family recipes and for preparing a quick snack straight from the fridge.",
       "price": 4.99,
       "available": 0,
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "name": "Nestle Toll House Cookie Dough",
+      "name": "Pumpkin Fundido",
       "description": "Get the classic taste that America loves in a ready to bake dough. Full of our famous morsels, these cookies deliver the semi-sweet chocolate flavor youve come to expect from Nestle Toll House.",
       "price": 7.49,
       "available": 325,
