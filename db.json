@@ -17,12 +17,12 @@
       "ingredients": [
         {
           "qty": 2,
-          "unit": "lb"
+          "unit": "lb",
           "ingredient": "Ground Turkey",
         },
         {
           "qty": 1,
-          "unit": "T"
+          "unit": "T",
           "ingredient": "Garlic Powder",
         }
       ]
