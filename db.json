@@ -15,8 +15,16 @@
         "dairy free"
       ],
       "ingredients": [
-        "2 lb Ground Turkey",
-        "1 T Garlic Powder"
+        {
+          "qty": 2,
+          "unit": "lb"
+          "ingredient": "Ground Turkey",
+        },
+        {
+          "qty": 1,
+          "unit": "T"
+          "ingredient": "Garlic Powder",
+        }
       ]
     },
     {
