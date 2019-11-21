@@ -18,12 +18,12 @@
         {
           "qty": 2,
           "unit": "lb",
-          "ingredient": "Ground Turkey",
+          "ingredient": "Ground Turkey"
         },
         {
           "qty": 1,
           "unit": "T",
-          "ingredient": "Garlic Powder",
+          "ingredient": "Garlic Powder"
         }
       ]
     },
@@ -45,12 +45,12 @@
         {
           "qty": 2,
           "unit": "lb",
-          "ingredient": "Ground Turkey",
+          "ingredient": "Ground Turkey"
         },
         {
           "qty": 1,
           "unit": "T",
-          "ingredient": "Garlic Powder",
+          "ingredient": "Garlic Powder"
         }
       ]
     }
