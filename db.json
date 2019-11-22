@@ -1,180 +1,257 @@
 {
-  "recipes": [
-    {
-      "id": "FuegoMeatloaf",
-      "name": "Chipotle Fuego Turkey Meatloaf",
-      "description": "This Chipotle Fuego Turkey Meatloaf recipe is our homage to the belly-warming, winter classic that we love, but with a couple of new ingredient-twists! Baked with our Grain Free Fuego Tortilla Chips and our Chipotle Hot Sauce, this loaf is perfect for those who love a healthy dose of heat, and would rather spend all winter by the fireside. Serve with your grandma’s revered mashed potatoes, or momma’s green beans, and scarf down!",
-      "servings": 8,
-      "time": 70,
-      "categories": [
-        "gluten free",
-        "grain free",
-        "soy free",
-        "dairy free"
-      ],
-      "directions": [
-        "Cut bacon into small pieces and render. Once crispy, separate from bacon fat.",
-        "In a bowl, combine turkey, bacon, egg, and all seasonings.",
-        "In a food processor, ground Fuego chips until fine. Add to turkey mixture.",
-        "Form ground turkey mixture into a meatloaf and place in a pan lined with parchment.",
-        "Combine Ketchup and chipotle hot sauce and pour over loaf.",
-        "Bake at 375F for 45 mins.",
-        "Slice, sprinkle chopped herbs over meatloaf and serve.",
-        "Enjoy!"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "lb",
-          "ingredient": "Ground Turkey"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Garlic Powder"
-        },
-        {
-          "qty": 1,
-          "unit": "t",
-          "ingredient": "Cayenne Pepper"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Onion"
-        },
-        {
-          "qty": 0.5,
-          "unit": "Pkg",
-          "ingredient": "Bacon"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "ingredient": "Egg"
-        },
-        {
-          "qty": 0.25,
-          "unit": "",
-          "ingredient": "4 oz Bag Siete Grain Free Fuego Chips"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Salt"
-        },
-        {
-          "qty": 1,
-          "unit": "t",
-          "ingredient": "Pepper"
-        },
-        {
-          "qty": 1,
-          "unit": "C",
-          "ingredient": "Organic Ketchup"
-        },
-        {
-          "qty": 0.25,
-          "unit": "C",
-          "ingredient": "Siete Chipotle Hot Sauce"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Parsley"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Chives"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Chervil"
-        }
-      ]
-    },
-    {
-      "id": "PumpkinFundido",
-      "name": "Pumpkin Fundido Dip",
-      "description": "With Fall here and Winter soon upon us, we’ve officially entered the season of warm, indulgent, and festive gatherings. And even though this time of year encourages us to slow down and come together, sometimes it also means needing to throw a dish together quickly! If this sounds like your life from October through the New Year, we’ve got just the appetizer for you...Pumpkin Fundido! With just a handful of ingredients, this crowd-pleasing recipe can be ready in a lickity-splickity-bippity-boppity-boo!",
-      "servings": 10,
-      "time": 45,
-      "categories": [
-        "gluten free",
-        "grain free",
-        "soy free",
-        "dairy free"
-      ],
-      "directions": [
-        "Preheat oven at 400F.",
-        "In a cast iron pan, add 3 T of avocado oil and add turkey, garlic powder, onion powder, salt & pepper.",
-        "Once the turkey is cooked, transfer to a bowl. Combine with pumpkin puree and Mild Nacho Cashew Queso.",
-        "In the same cast iron pan, add 2 T of avocado oil and thinly sliced onions. Add 1-2 T of water and cook onions until caramelized (takes about 10-15 mins), then add to queso mixture.",
-        "Cut the top of the pumpkin and carve out the inside.",
-        "Add all queso mixture into into the pumpkin and top with mozzarella cheese.",
-        "Use avocado oil spray to lightly spray top of cheese..",
-        "Bake for 20 mins and then broil on HIGH for 3- 4 mins, or until cheese is golden brown.",
-        "Serve with Grain Free No Salt Tortilla Chips and enjoy!"
-      ],
-      "ingredients": [
-        {
-          "qty": 1,
-          "unit": "",
-          "ingredient": "Medium-Sized Pumpkin"
-        },
-        {
-          "qty": 1,
-          "unit": "Can",
-          "ingredient": "15 oz Organic Pumpkin Puree"
-        },
-        {
-          "qty": 1,
-          "unit": "Lb",
-          "ingredient": "Ground Turkey"
-        },
-        {
-          "qty": 1,
-          "unit": "Jar",
-          "ingredient": "Siete Mild Nacho Cashew Queso"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Garlic Powder"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Onion Powder"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Sea Salt"
-        },
-        {
-          "qty": 1,
-          "unit": "t",
-          "ingredient": "Pepper"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "ingredient": "Small Yellow Onion, thinly sliced"
-        },
-        {
-          "qty": 0.5,
-          "unit": "C",
-          "ingredient": "Dairy Free Mozzarella Cheese"
-        },
-        {
-          "qty": 1,
-          "unit": "T",
-          "ingredient": "Avocado Spray"
-        }
-      ]
-    }
-  ]
+	"recipes": [{
+			"id": "FuegoMeatloaf",
+			"name": "Chipotle Fuego Turkey Meatloaf",
+			"description": "This Chipotle Fuego Turkey Meatloaf recipe is our homage to the belly-warming, winter classic that we love, but with a couple of new ingredient-twists! Baked with our Grain Free Fuego Tortilla Chips and our Chipotle Hot Sauce, this loaf is perfect for those who love a healthy dose of heat, and would rather spend all winter by the fireside. Serve with your grandma’s revered mashed potatoes, or momma’s green beans, and scarf down!",
+			"servings": 8,
+			"time": 70,
+			"categories": [
+				"gluten free",
+				"grain free",
+				"soy free",
+				"dairy free"
+			],
+			"directions": [
+				"Cut bacon into small pieces and render. Once crispy, separate from bacon fat.",
+				"In a bowl, combine turkey, bacon, egg, and all seasonings.",
+				"In a food processor, ground Fuego chips until fine. Add to turkey mixture.",
+				"Form ground turkey mixture into a meatloaf and place in a pan lined with parchment.",
+				"Combine Ketchup and chipotle hot sauce and pour over loaf.",
+				"Bake at 375F for 45 mins.",
+				"Slice, sprinkle chopped herbs over meatloaf and serve.",
+				"Enjoy!"
+			],
+			"ingredients": [{
+					"qty": 2,
+					"unit": "lb",
+					"ingredient": "Ground Turkey"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Garlic Powder"
+				},
+				{
+					"qty": 1,
+					"unit": "t",
+					"ingredient": "Cayenne Pepper"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Onion"
+				},
+				{
+					"qty": 0.5,
+					"unit": "Pkg",
+					"ingredient": "Bacon"
+				},
+				{
+					"qty": 1,
+					"unit": "",
+					"ingredient": "Egg"
+				},
+				{
+					"qty": 0.25,
+					"unit": "",
+					"ingredient": "4 oz Bag Siete Grain Free Fuego Chips"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Salt"
+				},
+				{
+					"qty": 1,
+					"unit": "t",
+					"ingredient": "Pepper"
+				},
+				{
+					"qty": 1,
+					"unit": "C",
+					"ingredient": "Organic Ketchup"
+				},
+				{
+					"qty": 0.25,
+					"unit": "C",
+					"ingredient": "Siete Chipotle Hot Sauce"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Parsley"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Chives"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Chervil"
+				}
+			]
+		},
+		{
+			"id": "PumpkinFundido",
+			"name": "Pumpkin Fundido Dip",
+			"description": "With Fall here and Winter soon upon us, we’ve officially entered the season of warm, indulgent, and festive gatherings. And even though this time of year encourages us to slow down and come together, sometimes it also means needing to throw a dish together quickly! If this sounds like your life from October through the New Year, we’ve got just the appetizer for you...Pumpkin Fundido! With just a handful of ingredients, this crowd-pleasing recipe can be ready in a lickity-splickity-bippity-boppity-boo!",
+			"servings": 10,
+			"time": 45,
+			"categories": [
+				"gluten free",
+				"grain free",
+				"soy free",
+				"dairy free"
+			],
+			"directions": [
+				"Preheat oven at 400F.",
+				"In a cast iron pan, add 3 T of avocado oil and add turkey, garlic powder, onion powder, salt & pepper.",
+				"Once the turkey is cooked, transfer to a bowl. Combine with pumpkin puree and Mild Nacho Cashew Queso.",
+				"In the same cast iron pan, add 2 T of avocado oil and thinly sliced onions. Add 1-2 T of water and cook onions until caramelized (takes about 10-15 mins), then add to queso mixture.",
+				"Cut the top of the pumpkin and carve out the inside.",
+				"Add all queso mixture into into the pumpkin and top with mozzarella cheese.",
+				"Use avocado oil spray to lightly spray top of cheese..",
+				"Bake for 20 mins and then broil on HIGH for 3- 4 mins, or until cheese is golden brown.",
+				"Serve with Grain Free No Salt Tortilla Chips and enjoy!"
+			],
+			"ingredients": [{
+					"qty": 1,
+					"unit": "",
+					"ingredient": "Medium-Sized Pumpkin"
+				},
+				{
+					"qty": 1,
+					"unit": "Can",
+					"ingredient": "15 oz Organic Pumpkin Puree"
+				},
+				{
+					"qty": 1,
+					"unit": "Lb",
+					"ingredient": "Ground Turkey"
+				},
+				{
+					"qty": 1,
+					"unit": "Jar",
+					"ingredient": "Siete Mild Nacho Cashew Queso"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Garlic Powder"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Onion Powder"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Sea Salt"
+				},
+				{
+					"qty": 1,
+					"unit": "t",
+					"ingredient": "Pepper"
+				},
+				{
+					"qty": 1,
+					"unit": "",
+					"ingredient": "Small Yellow Onion, thinly sliced"
+				},
+				{
+					"qty": 0.5,
+					"unit": "C",
+					"ingredient": "Dairy Free Mozzarella Cheese"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Avocado Spray"
+				}
+			]
+		},
+		{
+			"id": "HamCheeseWraps",
+			"name": "Ham & Cheese Wraps",
+			"description": "Parents, want a quick recipe to wrap up your kiddos school lunches? Well, without sounding too cheesy, we have a HAMsome lunchtime solution that's easy-peasy!",
+			"servings": 2,
+			"time": 15,
+			"categories": [
+				"gluten free",
+				"grain free",
+				"soy free"
+			],
+			"directions": [
+				"Heat tortillas on a pan, flat top, or comal, 15 seconds each side.",
+				"In a mixing bowl, add cream cheese, mayo, dill, onion and garlic powder together. Blend thoroughly.",
+				"Spoon and spread the mixture onto heated tortillas.",
+				"Add American cheese and deli meat to wrap.",
+				"Roll and slice wrap into bite-sized bits, then enjoy!"
+			],
+			"ingredients": [{
+					"qty": 2,
+					"unit": "",
+					"ingredient": "Grain Free Chickpea Tortillas"
+				},
+				{
+					"qty": 1,
+					"unit": "T",
+					"ingredient": "Garlic Powder"
+				},
+				{
+					"qty": 4,
+					"unit": "oz",
+					"ingredient": "Cream Cheese"
+				},
+				{
+					"qty": 2,
+					"unit": "T",
+					"ingredient": "Mayo"
+				},
+				{
+					"qty": 0.5,
+					"unit": "Pkg",
+					"ingredient": "Bacon"
+				},
+				{
+					"qty": 0.25,
+					"unit": "t",
+					"ingredient": "Fresh Drill"
+				},
+				{
+					"qty": 0.25,
+					"unit": "t",
+					"ingredient": "Onion"
+				},
+				{
+					"qty": 0.25,
+					"unit": "t",
+					"ingredient": "Garlic Powder"
+				},
+				{
+					"qty": 1,
+					"unit": "t",
+					"ingredient": "Pepper"
+				},
+				{
+					"qty": 1,
+					"unit": "C",
+					"ingredient": "American Cheese"
+				},
+				{
+					"qty": 0.25,
+					"unit": "C",
+					"ingredient": "Siete Chipotle Hot Sauce"
+				},
+				{
+					"qty": 4,
+					"unit": "Slices",
+					"ingredient": "Ham"
+				}
+			]
+		}
+	]
 }
