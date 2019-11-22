@@ -108,26 +108,72 @@
         "dairy free"
       ],
       "directions": [
-        "Cut bacon into small pieces and render. Once crispy, separate from bacon fat.",
-        "In a bowl, combine turkey, bacon, egg, and all seasonings.",
-        "In a food processor, ground Fuego chips until fine. Add to turkey mixture.",
-        "Form ground turkey mixture into a meatloaf and place in a pan lined with parchment.",
-        "Combine Ketchup and chipotle hot sauce and pour over loaf.",
-        "Bake at 375F for 45 mins.",
-        "Slice, sprinkle chopped herbs over meatloaf and serve.",
-        "Enjoy!"
+        "Preheat oven at 400F.",
+        "In a cast iron pan, add 3 T of avocado oil and add turkey, garlic powder, onion powder, salt & pepper.",
+        "Once the turkey is cooked, transfer to a bowl. Combine with pumpkin puree and Mild Nacho Cashew Queso.",
+        "In the same cast iron pan, add 2 T of avocado oil and thinly sliced onions. Add 1-2 T of water and cook onions until caramelized (takes about 10-15 mins), then add to queso mixture.",
+        "Cut the top of the pumpkin and carve out the inside.",
+        "Add all queso mixture into into the pumpkin and top with mozzarella cheese.",
+        "Use avocado oil spray to lightly spray top of cheese..",
+        "Bake for 20 mins and then broil on HIGH for 3- 4 mins, or until cheese is golden brown.",
+        "Serve with Grain Free No Salt Tortilla Chips and enjoy!"
       ],
       "ingredients": [
         {
-          "qty": 2,
-          "unit": "lb",
+          "qty": 1,
+          "unit": "",
+          "ingredient": "Medium-Sized Pumpkin"
+        },
+        {
+          "qty": 1,
+          "unit": "Can",
+          "ingredient": "15 oz Organic Pumpkin Puree"
+        },
+        {
+          "qty": 1,
+          "unit": "Lb",
           "ingredient": "Ground Turkey"
+        },
+        {
+          "qty": 1,
+          "unit": "Jar",
+          "ingredient": "Siete Mild Nacho Cashew Queso"
         },
         {
           "qty": 1,
           "unit": "T",
           "ingredient": "Garlic Powder"
-        }
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Onion Powder"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Sea Salt"
+        },
+        {
+          "qty": 1,
+          "unit": "t",
+          "ingredient": "Pepper"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "ingredient": "Small Yellow Onion, thinly sliced"
+        },
+        {
+          "qty": 0.5,
+          "unit": "C",
+          "ingredient": "Dairy Free Mozzarella Cheese"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Avocado Spray"
+        },
       ]
     }
   ]
