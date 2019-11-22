@@ -24,6 +24,66 @@
           "qty": 1,
           "unit": "T",
           "ingredient": "Garlic Powder"
+        },
+        {
+          "qty": 1,
+          "unit": "t",
+          "ingredient": "Cayenne Pepper"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Onion"
+        },
+        {
+          "qty": 0.5,
+          "unit": "Pkg",
+          "ingredient": "Bacon"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "ingredient": "Egg"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "ingredient": "4 oz Bag Siete Grain Free Fuego Chips"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Salt"
+        },
+        {
+          "qty": 1,
+          "unit": "t",
+          "ingredient": "Pepper"
+        },
+        {
+          "qty": 1,
+          "unit": "C",
+          "ingredient": "Organic Ketchup"
+        },
+        {
+          "qty": 0.25,
+          "unit": "C",
+          "ingredient": "Siete Chipotle Hot Sauce"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Parsley"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Chives"
+        },
+        {
+          "qty": 1,
+          "unit": "T",
+          "ingredient": "Chervil"
         }
       ]
     },
